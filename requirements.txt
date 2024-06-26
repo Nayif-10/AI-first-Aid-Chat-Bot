@@ -1,0 +1,7 @@
+streamlit
+google-generativeai  
+python-dotenv
+langchain
+PyPDF2
+faiss-cpu  #vector store
+langchain_google_genai  #using langchain asses api s of google genai
